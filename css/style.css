@@ -1,7 +1,26 @@
 body{
-    background-color: pink;
+    background-color: rgb(192, 213, 238);
 }
 
 h1{
     text-align: center;
+}
+
+img{
+    width:200px;
+    height:200px;
+}
+
+a{
+    display: flex;
+    justify-content:space-evenly;
+}
+
+h2{
+    color: blueviolet;
+}
+
+p{
+    color: red;
+    text-decoration: line-through;
 }
